@@ -133,7 +133,7 @@ This project includes:
 
 
 ## Behavior Trends 
-1. Are inactive members more likely to churn?
+1. **Are inactive members more likely to churn?**
 * Yes, inactive members show significantly higher churn, confirming that engagement is strongly tied to retention.
 
 > How does customer activity level relate to churn, and which engagement strategies could reduce it?
