@@ -149,9 +149,10 @@ This project includes:
 
 > Does a large balance relative to salary indicate risk of churn, and how can we better serve these customers?
 
+![Screenshot of the app](visuals/output.png)
+
 > **Action:** Provide premium services, personalized account management, or proactive engagement for high-balance clients.
 
-![Screenshot of the app](visuals/output.png)
 
 3. **Active Members With Low Product Engagement**
 * Active customers with **few or only one product** show churn risk due to weak engagement.
@@ -159,10 +160,9 @@ This project includes:
 * Customers with many products showed the highest churn, likely from: Product overload, poor bundling strategy, and complexity or dissatisfaction with multiple services
 
 > Does product engagement influence churn, and how should product strategy adapt?
-
+![Screenshot of the app](visuals/2.png)
 > **Action:** Simplify product offerings, review bundling strategies, and ensure clear communication of product benefits. Consider training or onboarding support for multi-product clients.
 
-![Screenshot of the app](visuals/2.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,12 +219,12 @@ This project includes:
 
 5. **Revenue Lost by Tenure**
 > How does tenure influence financial impact, and which tenure groups require retention focus?
-**Insight:** Revenue loss shows a U-shaped trend across tenure buckets; mid-tenure customers (3–7 years) contribute disproportionately to financial loss.
 
-**Action:** Focus retention interventions on mid-tenure customers, including loyalty rewards, periodic account reviews, or personalized offers.
 ![Screenshot of the app](visuals/7.png)
 ![Screenshot of the app](visuals/8.png)
 
+> **Insight:** Revenue loss shows a U-shaped trend across tenure buckets; mid-tenure customers (3–7 years) contribute disproportionately to financial loss.
+> **Action:** Focus retention interventions on mid-tenure customers, including loyalty rewards, periodic account reviews, or personalized offers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
