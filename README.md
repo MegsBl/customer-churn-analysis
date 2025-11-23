@@ -117,9 +117,9 @@ This project includes:
 * Younger customers (18–30) churn far less in comparison.
 * Gender differences are pronounced, with **women in older age groups churning at the highest rates overall**.
 
-> **Action:** Focus retention strategies on mid-career, high-value customers, especially older females, through targeted offers and relationship management.
-
 ![Screenshot of the app](visuals/churnbygenderage.png)
+
+> **Action:** Focus retention strategies on mid-career, high-value customers, especially older females, through targeted offers and relationship management.
 
 7. **Churn by Tenure and Age Group**
 
