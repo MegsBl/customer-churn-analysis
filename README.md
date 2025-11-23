@@ -190,7 +190,7 @@ This project includes:
 
 ![Screenshot of the app](visuals/6.png)
 
-> **Insight:** Even though Spain and France have similar churn rates, France lost more revenue—possibly due to higher-income churners.
+> **Insight:** Even though Spain and France have similar churn rates, France lost more revenue. Possibly due to higher-income churners.
 
 
 2. **Revenue Lost by Age Group**
@@ -224,6 +224,7 @@ This project includes:
 ![Screenshot of the app](visuals/8.png)
 
 > **Insight:** Revenue loss shows a U-shaped trend across tenure buckets; mid-tenure customers (3–7 years) contribute disproportionately to financial loss.
+
 > **Action:** Focus retention interventions on mid-tenure customers, including loyalty rewards, periodic account reviews, or personalized offers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
