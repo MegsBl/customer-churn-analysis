@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project analyzes customer churn using the Banking Customer Churn Prediction Dataset.Through data cleaning, feature engineering, exploratory analysis, and Tableau visualization, the goal is to uncover why customers leave and identify actionable strategies to reduce churn and revenue loss.
+This project analyzes customer churn using the Banking Customer Churn Prediction Dataset. Through data cleaning, feature engineering, exploratory analysis, and data visualization, the goal is to uncover why customers leave and identify actionable strategies to reduce churn and revenue loss.
 
 * Dataset: [Customer Churn](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset)
 
